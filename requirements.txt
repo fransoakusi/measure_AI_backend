@@ -1,0 +1,45 @@
+# Flask Web Framework
+Flask==2.3.3
+Flask-CORS==4.0.0
+Flask-PyMongo==2.3.0
+
+# Computer Vision & Image Processing
+mediapipe==0.10.7
+opencv-python==4.8.1.78
+numpy==1.24.3
+Pillow==10.0.1
+scikit-image==0.21.0
+
+# Database
+pymongo==4.5.0
+motor==3.3.1
+
+# PDF Generation
+reportlab==4.0.4
+matplotlib==3.7.2
+
+# Data Processing
+pandas==2.0.3
+
+# Environment Variables
+python-dotenv==1.0.0
+
+# API Documentation
+flask-restx==1.1.0
+
+# File Handling
+werkzeug==2.3.7
+
+# Validation
+marshmallow==3.20.1
+
+# Math & Statistics
+scipy==1.11.2
+
+# Utilities
+requests==2.31.0
+python-dateutil==2.8.2
+
+# Development
+pytest==7.4.2
+pytest-flask==1.2.0
